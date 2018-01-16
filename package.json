@@ -6,6 +6,10 @@
     "background",
     "cordova"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo1208/repository"
+  },
   "platforms": [
     "android"
   ],
